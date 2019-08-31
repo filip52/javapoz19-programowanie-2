@@ -66,5 +66,5 @@ public class MyUser implements Comparable<MyUser> {
         this.name.compareTo(o.name);
 
     }
-}
+}}
 
